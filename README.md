@@ -15,7 +15,7 @@ Este repositorio alberga un proyecto de análisis de datos enfocado en comprende
 
 ##Evidencias Finales:
 
-<img width="1072" height="672" alt="image" src="[https://github.com/user-attachments/assets/d12f967f-0993-41b5-8619-2602d2376cf3](https://github.com/Gdelangel/GDAL_TelecomX2/blob/main/confusion_matrix_DecisionTree.png)" />
+<img width="1072" height="672" alt="image" src="https://github.com/Gdelangel/GDAL_TelecomX2/blob/main/confusion_matrix_DecisionTree.png" />
 
 <img width="1072" height="672" alt="image" src="https://github.com/Gdelangel/GDAL_TelecomX2/blob/main/confusion_matrix_RandomForest.png" />
 
